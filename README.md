@@ -15,6 +15,8 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 - [Vulnerable Apps](#vulnerable-apps)
 - [References](#References)
 
+
+
 # Programming Languages
 
 ## Javascript
@@ -24,6 +26,8 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 ## Ruby
 
 * [bundler-audit](https://github.com/rubysec/bundler-audit)
+
+
 
 
 # Multiple Languages
@@ -41,6 +45,8 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Whitehat SCA](https://www.whitehatsec.com/products/static-application-security-testing/software-composition-analysis/) :copyright:
 
 
+
+
 # Vulnerability Databases
 
 * [Exploit Database](https://www.exploit-db.com/webapps/)
@@ -50,12 +56,16 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [NIST Data Mirror](https://github.com/stevespringett/nist-data-mirror)
 
 
+
 # SCA Platform
 *[Dependancy Track](https://github.com/stevespringett/dependency-track)
 
 
+
 # Books
 * [Securing Open Source Libraries](https://www.safaribooksonline.com/library/view/securing-open-source/9781491996980/) By Guy Podjarny
+
+
 
 
 # Vulnerable Apps
@@ -65,6 +75,8 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 ## Java
 * [java-goof](https://github.com/snyk/java-goof)
+
+
 
 
 # References
