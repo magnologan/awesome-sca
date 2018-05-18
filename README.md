@@ -1,8 +1,7 @@
-# awesome-thirdpartycomponents
-Upcoming comprehensive list of third party component vulnerability checking references. 
+# awesome-sca
+Coming up!! A comprehensive list of Software Composition Analysis Tools.
 
-
-Following repo contains a collection of third party component analysis tools which can be used in daily needs.
+Following repo contains a collection of SCA tools which can be used to analyze risks in third party components which were used as part of code. Feel free to add up any new tools. 
 **Note: :copyright: stands for proprietary sofware. All other tools are open source. **
 
 # Table of Contents
