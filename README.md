@@ -34,6 +34,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 * [BlackDuck](https://www.blackducksoftware.com/solutions/application-security) :copyright: Open source software security audit
 * [Contrast Security](https://www.contrastsecurity.com/interactive-application-security-testing-iast) :copyright:
+* [Debricked](https://debricked.com) :copyright:
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck) - OWASP Dependancy-check supports Java, .Net. Additional experimental support has been added for Ruby,Node.js,Python and Limited C/C++ build systems.(autoconf and cmake)
 * [Flexera](https://www.flexera.com/products/software-composition-analysis) :copyright:
 * [nexB](https://www.nexb.com/) :copyright:
@@ -49,6 +50,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 # Vulnerability Databases
 
+* [Debricked Vulnerability Database](https://app.debricked.com/en/vulnerability-database)
 * [Exploit Database](https://www.exploit-db.com/webapps/)
 * [National Vulnerability Database](https://nvd.nist.gov/)
 * [Snyk Vulnerabilitydb](https://github.com/snyk/vulnerabilitydb)
