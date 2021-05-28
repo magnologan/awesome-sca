@@ -39,9 +39,9 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Flexera](https://www.flexera.com/products/software-composition-analysis) :copyright:
 * [nexB](https://www.nexb.com/) :copyright:
 * [RogueWave](https://www.roguewave.com/products-services/open-source-support/oss-support) :copyright:
-* [SourceClear](https://www.sourceclear.com/) :copyright: - Thirdparty component analysis for Java,Ruby,Javascript,Python,Objective C,GO and PHP
 * [Snyk](https://snyk.io/) :copyright: continuously find and fix vulnerabilities in your depandancies. it supports JS,Java,Python,Ruby,Go,PHP,.NET,Scala etc.
 * [Sonatype](https://www.sonatype.com/) :copyright:
+* [Veracode](https://www.veracode.com/products/software-composition-analysis) :copyright: (formerly SourceClear) - Thirdparty component analysis for Java, Ruby, Javascript, PHP, Python, Scala, Kotlin, C/C++, Objective C, Swift, Go, and .NET
 * [WhiteSource](https://www.whitesourcesoftware.com/whitesource-languages/) :copyright: -  Secure your opensource components for C#,Java,C++,.NET,PHP,Python,Ruby,Docker,nodejs,Javascript etc.
 * [Whitehat SCA](https://www.whitehatsec.com/products/static-application-security-testing/software-composition-analysis/) :copyright:
 
