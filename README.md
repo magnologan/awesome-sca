@@ -33,6 +33,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 # Multiple Languages
 
 * [BlackDuck](https://www.blackducksoftware.com/solutions/application-security) :copyright: Open source software security audit
+* [Bytesafe](https://bytesafe.dev/) :copyright: Discover and manage vulnerabilities in your dependencies
 * [Contrast Security](https://www.contrastsecurity.com/interactive-application-security-testing-iast) :copyright:
 * [Debricked](https://debricked.com) :copyright:
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck) - OWASP Dependancy-check supports Java, .Net. Additional experimental support has been added for Ruby,Node.js,Python and Limited C/C++ build systems.(autoconf and cmake)
@@ -60,7 +61,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 
 # SCA Platform
-*[Dependancy Track](https://github.com/stevespringett/dependency-track)
+* [Dependancy Track](https://github.com/stevespringett/dependency-track)
 
 
 
