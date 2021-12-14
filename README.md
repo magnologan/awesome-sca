@@ -85,7 +85,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 # References
 
 ## Articles
-* [Choosing a took to track and mitigate open source security vulnerabilities](https://www.oreilly.com/ideas/choosing-a-tool-to-track-and-mitigate-open-source-security-vulnerabilities)
+* [Choosing a tool to track and mitigate open source security vulnerabilities](https://www.oreilly.com/ideas/choosing-a-tool-to-track-and-mitigate-open-source-security-vulnerabilities)
 
 
 
