@@ -39,6 +39,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck) - OWASP Dependancy-check supports Java, .Net. Additional experimental support has been added for Ruby,Node.js,Python and Limited C/C++ build systems.(autoconf and cmake)
 * [Flexera](https://www.flexera.com/products/software-composition-analysis) :copyright:
 * [nexB](https://www.nexb.com/) :copyright:
+* [OpenSCA](https://github.com/XmirrorSecurity/OpenSCA-cli) - Apache License 2.0, OpenSCA is intended for scanning the third-party component dependencies and vulnerabilities.
 * [RogueWave](https://www.roguewave.com/products-services/open-source-support/oss-support) :copyright:
 * [Snyk](https://snyk.io/) :copyright: continuously find and fix vulnerabilities in your depandancies. it supports JS,Java,Python,Ruby,Go,PHP,.NET,Scala etc.
 * [Sonatype](https://www.sonatype.com/) :copyright:
