@@ -46,6 +46,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Veracode](https://www.veracode.com/products/software-composition-analysis) :copyright: (formerly SourceClear) - Thirdparty component analysis for Java, Ruby, Javascript, PHP, Python, Scala, Kotlin, C/C++, Objective C, Swift, Go, and .NET
 * [WhiteSource](https://www.whitesourcesoftware.com/whitesource-languages/) :copyright: -  Secure your opensource components for C#,Java,C++,.NET,PHP,Python,Ruby,Docker,nodejs,Javascript etc.
 * [Whitehat SCA](https://www.whitehatsec.com/products/static-application-security-testing/software-composition-analysis/) :copyright:
+* [Murphysec](https://github.com/murphysecurity/murphysec) - MurphySec CLI is used for detecting vulnerable dependencies from the command-line, and also can be integrated into your CI/CD pipeline.
 
 
 
