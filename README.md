@@ -34,7 +34,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 * [BlackDuck](https://www.blackducksoftware.com/solutions/application-security) :copyright: Open source software security audit
 * [Bytesafe](https://bytesafe.dev/) :copyright: Discover and manage vulnerabilities in your dependencies
-* [BomLens](https://github.com/sktelecom/sbom-tools) - Local-first, open source SCA and SBOM tool generating CycloneDX SBOMs and license/security risk reports across Java, Python, Node.js, Go, Ruby, PHP, Rust, .NET, Swift and C/C++. Also builds AI ML-BOMs for HuggingFace models.
+* [BomLens](https://github.com/sktelecom/bomlens) - Local-first, open source SCA and SBOM tool generating CycloneDX SBOMs and license/security risk reports across Java, Python, Node.js, Go, Ruby, PHP, Rust, .NET, Swift and C/C++. Also builds AI ML-BOMs for HuggingFace models.
 * [Contrast Security](https://www.contrastsecurity.com/interactive-application-security-testing-iast) :copyright:
 * [Debricked](https://debricked.com) :copyright:
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck) - OWASP Dependancy-check supports Java, .Net. Additional experimental support has been added for Ruby,Node.js,Python and Limited C/C++ build systems.(autoconf and cmake)
