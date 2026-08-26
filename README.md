@@ -39,6 +39,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Debricked](https://debricked.com) :copyright:
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck) - OWASP Dependancy-check supports Java, .Net. Additional experimental support has been added for Ruby,Node.js,Python and Limited C/C++ build systems.(autoconf and cmake)
 * [Flexera](https://www.flexera.com/products/software-composition-analysis) :copyright:
+* [LicenseGuard](https://github.com/rccaoki-wq/license-guard) - License-only SCA (no vulnerability data). Reads lockfiles and CycloneDX/SPDX SBOMs for npm, PyPI, Go, Cargo, RubyGems and NuGet, and judges each dependency license against how the software reaches its users - SaaS, distributed binary, on-prem delivery, internal-only, or published library - since the same license obliges different things in each. Web UI, HTTP API and MCP server.
 * [nexB](https://www.nexb.com/) :copyright:
 * [OpenSCA](https://github.com/XmirrorSecurity/OpenSCA-cli) - Apache License 2.0, OpenSCA is intended for scanning the third-party component dependencies and vulnerabilities.
 * [Plexicus](https://www.plexicus.ai/aspm-application-security-posture-management/) :copyright: - Unifying Software Composition Analysis, secret detection, API vulnerability scanning, IaC checks, container security, SBOM generation, and more - all in a single platform
