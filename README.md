@@ -38,6 +38,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Contrast Security](https://www.contrastsecurity.com/interactive-application-security-testing-iast) :copyright:
 * [Debricked](https://debricked.com) :copyright:
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck) - OWASP Dependancy-check supports Java, .Net. Additional experimental support has been added for Ruby,Node.js,Python and Limited C/C++ build systems.(autoconf and cmake)
+* [DepWarden](https://depwarden.in) :copyright: - Free, anonymous SCA + SAST tool: paste a manifest or lockfile, no account or source upload. Checks npm, PyPI, Maven, Gradle, Go, RubyGems, Cargo, NuGet, Composer, Dart and Swift dependencies against OSV, CISA KEV and FIRST EPSS, plus typosquat/dependency-confusion detection, license and EOL flags.
 * [Flexera](https://www.flexera.com/products/software-composition-analysis) :copyright:
 * [nexB](https://www.nexb.com/) :copyright:
 * [OpenSCA](https://github.com/XmirrorSecurity/OpenSCA-cli) - Apache License 2.0, OpenSCA is intended for scanning the third-party component dependencies and vulnerabilities.
