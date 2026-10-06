@@ -22,6 +22,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 ## Javascript
 
 * [Retire.js](https://github.com/RetireJS/retire.js)
+* [Package Rating](https://packagerating.com) - Scores npm packages on liveness, community health, security, and dependency risk before you adopt them.
 
 ## Ruby
 
