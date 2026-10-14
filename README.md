@@ -32,6 +32,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 
 # Multiple Languages
 
+* [Abom](https://vulert.com/abom) :copyright: ABOM is a SCA tool that monitors open source dependencies for vulnerabilities, suggests fixes, and supports C/C++, Dart, Elixir, Go, Java, JavaScript, PHP, Python, R, Ruby, and Rust,
 * [BlackDuck](https://www.blackducksoftware.com/solutions/application-security) :copyright: Open source software security audit
 * [Bytesafe](https://bytesafe.dev/) :copyright: Discover and manage vulnerabilities in your dependencies
 * [BomLens](https://github.com/sktelecom/sbom-tools) - Local-first, open source SCA and SBOM tool generating CycloneDX SBOMs and license/security risk reports across Java, Python, Node.js, Go, Ruby, PHP, Rust, .NET, Swift and C/C++. Also builds AI ML-BOMs for HuggingFace models.
@@ -59,6 +60,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Exploit Database](https://www.exploit-db.com/webapps/)
 * [National Vulnerability Database](https://nvd.nist.gov/)
 * [Snyk Vulnerabilitydb](https://github.com/snyk/vulnerabilitydb)
+* [Vulert Vulnerability Database](https://github.com/stevespringett/vulndb-data-mirror)
 * [VulnDB Data Mirror](https://github.com/stevespringett/vulndb-data-mirror)
 * [NIST Data Mirror](https://github.com/stevespringett/nist-data-mirror)
 
