@@ -22,6 +22,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 ## Javascript
 
 * [Retire.js](https://github.com/RetireJS/retire.js)
+* [npmscan](https://npmscan.com/) :copyright: - Free web lookup for npm packages and package.json files: known vulnerabilities (OSV, GitHub Advisories) plus install-script, maintainer-change and provenance signals.
 
 ## Ruby
 
