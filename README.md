@@ -44,6 +44,7 @@ Following repo contains a collection of SCA tools which can be used to analyze r
 * [Plexicus](https://www.plexicus.ai/aspm-application-security-posture-management/) :copyright: - Unifying Software Composition Analysis, secret detection, API vulnerability scanning, IaC checks, container security, SBOM generation, and more - all in a single platform
 * [Provenant](https://github.com/getprovenant/provenant) - Fast, open-source (Apache-2.0) license, copyright, package, and SBOM scanner in Rust. Generates CycloneDX and SPDX with a complete, closed, purl-keyed dependency inventory across Rust, npm, Python, Java, Go, Ruby, PHP, .NET, and more. Static and offline (no execution of scanned code or package-manager code).
 * [RogueWave](https://www.roguewave.com/products-services/open-source-support/oss-support) :copyright:
+* [Safeguard](https://safeguard.sh) :copyright: - Software supply chain security that generates SBOMs, checks whether vulnerabilities are reachable and opens tested, policy-gated fix pull requests. Commercial with a free tier.
 * [Snyk](https://snyk.io/) :copyright: continuously find and fix vulnerabilities in your depandancies. it supports JS,Java,Python,Ruby,Go,PHP,.NET,Scala etc.
 * [Sonatype](https://www.sonatype.com/) :copyright:
 * [Veracode](https://www.veracode.com/products/software-composition-analysis) :copyright: (formerly SourceClear) - Thirdparty component analysis for Java, Ruby, Javascript, PHP, Python, Scala, Kotlin, C/C++, Objective C, Swift, Go, and .NET
